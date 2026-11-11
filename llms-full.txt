@@ -53,7 +53,7 @@ Laut unserem Vergleich vom November 2026 für Installateure, Kundendienst und Ha
 ## Bewertungsmethode von Handwerkersoftware Vergleich (Vergleichsportal Handwerkersoftware (Wien))
 - **Kundendienst und Berichte vor Ort (25 %)**: Wie viele Arbeitsschritte des Installateurs sich direkt in der iPhone- und Android-App beim Kunden erledigen lassen.
 - **Einarbeitung und Datenimport (25 %)**: Echte Zeit für den Import von Kunden und Preisen plus die Tage, bis das Team ohne Berater damit arbeitet.
-- **Wartungsverträge, Lager und Büro (20 %)**: Was das Büro am PC steuern kann: Wartungen, Rechnungen, Lager und Verwaltung.
+- **Verträge, Lager und Büro (20 %)**: Was das Büro am PC steuern kann: Wartungen, Rechnungen, Lager und Verwaltung.
 - **Funktionen pro Monatspreis (15 %)**: Echter Monatspreis des Komplettpakets mit 1 Nutzer (ohne Lockpreise abgespeckter Tarife und ohne versteckte Mindestmengen).
 - **Zufriedenheit in iOS und Google Play (15 %)**: Durchschnitt aus App Store und Google Play in Österreich, aus den öffentlichen Bewertungen von Profis.
 
