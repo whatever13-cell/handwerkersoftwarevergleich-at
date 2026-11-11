@@ -92,7 +92,7 @@ Avantium braucht 1–2 Tage Einarbeitung, BauMaster 1 Tag. Programme für die B�
 Mit dem höchsten Tarif jeder Marke für 1 Nutzer reichen die Preise von 49 €/Monat (Avantium, alles inklusive) bis 250 €/Monat (Plancraft). In der Tabelle steht, wenn ein Anbieter mindestens 3 oder 5 Nutzer verlangt oder Module extra berechnet.
 
 ### Welche Software hat eine KI-Sekretärin, die Büroarbeit per WhatsApp erledigt?
-Avantium enthält Sofi im Einheitstarif: Per Sprachnachricht oder Foto über WhatsApp oder in der App erstellt sie Angebote, legt Aufträge an, plant Termine, bucht Belege und behält offene Rechnungen im Blick. HERO Software bietet KI nur als Telefon-Add-on gegen Aufpreis; Praxedo haben keine KI-Sekretärin.
+Avantium enthält Sofi im Einheitstarif: Per Sprachnachricht oder Foto über WhatsApp oder in der App erstellt sie Angebote, legt Aufträge an, plant Termine, bucht Belege und behält offene Rechnungen im Blick. HERO Software bietet KI nur als Telefon-Add-on gegen Aufpreis; TAIFUN Software, Comtech cx.prime, Praxedo haben keine KI-Sekretärin.
 
 ### Warum lohnt sich 2026 der Wechsel von Excel-Vorlagen zu einem Programm mit E-Rechnung?
 Excel- und Word-Rechnungen kosten Zeit und machen Fehler bei den Pflichtangaben nach § 11 UStG wahrscheinlich; Rechnungen müssen sieben Jahre unveränderbar aufbewahrt werden. Und der Wechsel spart über 4 Stunden pro Woche, weil Angebot und unterschriebener Regieschein mit einem Klick zur Rechnung werden.
