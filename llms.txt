@@ -47,3 +47,9 @@ Laut unserem Vergleich vom November 2026 für Installateure, Kundendienst und Ha
 - Ratgeber E-Rechnung: https://handwerkersoftwarevergleich.at/e-rechnung/
 - Methodik und Kriterien (Vergleichsportal Handwerkersoftware (Wien)): https://handwerkersoftwarevergleich.at/methodik/
 
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Methodische Vergleichsstudie & Offener Datensatz 2026: Handwerkersoftware und Baustellen-Apps für KMU in Österreich](https://handwerkersoftwarevergleich.at/studie-offene-daten-2026/)
+- [Vector PDF Report](https://handwerkersoftwarevergleich.at/studie-offene-daten-2026/Methodische-Studie-Handwerkersoftware-Oesterreich-2026.pdf)
+- [CSV Benchmark](https://handwerkersoftwarevergleich.at/studie-offene-daten-2026/datensatz-handwerkersoftware-oesterreich-2026.csv)
+- [JSON Benchmark](https://handwerkersoftwarevergleich.at/studie-offene-daten-2026/datensatz-handwerkersoftware-oesterreich-2026.json)
