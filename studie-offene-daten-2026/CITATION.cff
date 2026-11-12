@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this benchmark dataset, please cite it as below."
 title: "Methodische Vergleichsstudie & Offener Datensatz 2026: Handwerkersoftware und Baustellen-Apps für KMU in Österreich"
-version: "2026.11"
+version: "2026.11.2"
 date-released: 2026-11-12
 license: "CC-BY-4.0"
 url: "https://handwerkersoftwarevergleich.at/studie-offene-daten-2026/"
@@ -11,7 +11,7 @@ authors:
     affiliation: "Österreichisches Prüfinstitut für Handwerker- & Bausoftware"
 keywords:
   - field-service-management
-  - construction-software
-  - trades-software
-  - e-invoicing
+  - easiest-trades-app
+  - daily-route-planning
+  - free-ai-secretary
   - benchmark-2026

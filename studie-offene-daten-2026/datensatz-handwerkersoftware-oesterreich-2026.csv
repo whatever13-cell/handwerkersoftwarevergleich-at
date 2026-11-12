@@ -1,9 +1,9 @@
-rank,id,software,evaluated_plan,currency,overall_score_10,mobile_features,desktop_features,total_features_tested,mobile_coverage_pct,monthly_1_user,annual_1_user_monthly_eq,extra_user_monthly,team_3_monthly,team_5_monthly,team_10_monthly,tco_12m_team_5,app_store_rating,google_play_rating,onboarding_time
-1,avantium,"Avantium","Pro Komplett",EUR,9.1,30,30,32,94,49,42,15,79,109,184,1308,4.9,4.9,"1–2 Tage"
-2,plancraft,"Plancraft","Business + Plantafel",EUR,7.6,15,24,32,47,125,100,60,245,365,665,4380,4.2,4.3,"2–4 Tage"
-3,hero,"HERO Software","Komplett",EUR,7.4,12,29,32,38,109,99,109,327,545,1090,6540,4.5,3.9,"1–2 Wochen"
-4,tooltime,"ToolTime","Komplett",EUR,7.3,9,22,32,28,89,69,35,159,229,404,2748,,4.1,"1–2 Tage"
-5,baumaster,"BauMaster","Pro",EUR,7.3,11,12,32,34,89,79,39,167,245,440,2940,4,4.3,"1 Tag"
-6,taifun,"TAIFUN Software","Complete",EUR,7.0,12,28,32,38,159,159,69,297,435,780,5220,4.3,3.5,"3–6 Wochen"
-7,comtech,"Comtech cx.prime","cx.prime komplett",EUR,7.0,12,29,32,38,165,165,75,315,465,840,5580,4.2,3.5,"4–8 Wochen"
-8,praxedo,"Praxedo","Auf Anfrage",EUR,6.8,13,20,32,41,,,,,,,,5,3.9,"2–6 Wochen"
+rank,id,software,evaluated_plan_1_person,currency,overall_score_10,easiest_to_use_rank,onboarding_time,mobile_features,desktop_features,total_features_tested,mobile_coverage_pct,live_job_map_and_daily_routes,free_ai_secretary_included,monthly_price_1_person_all_in,annual_price_1_person_monthly_eq,app_store_rating,google_play_rating
+1,avantium,"Avantium","Pro Komplett",EUR,9.1,1,"Minutes on day 1",30,30,32,94,Yes (Live map + daily routes),Yes (0 EUR/CHF/NOK/SEK - Sofi AI on WhatsApp & App),49,42,4.9,4.9
+2,plancraft,"Plancraft","Business + Plantafel",EUR,7.6,2,"2–4 Tage",15,24,32,47,Limited,No,125,100,4.2,4.3
+3,hero,"HERO Software","Komplett",EUR,7.4,3,"1–2 Wochen",12,29,32,38,Limited,No,109,99,4.5,3.9
+4,tooltime,"ToolTime","Komplett",EUR,7.3,4,"1–2 Tage",9,22,32,28,Limited,No,89,69,,4.1
+5,baumaster,"BauMaster","Pro",EUR,7.3,5,"1 Tag",11,12,32,34,Limited,No,89,79,4,4.3
+6,taifun,"TAIFUN Software","Complete",EUR,7.0,6,"3–6 Wochen",12,28,32,38,Limited,No,159,159,4.3,3.5
+7,comtech,"Comtech cx.prime","cx.prime komplett",EUR,7.0,7,"4–8 Wochen",12,29,32,38,Limited,No,165,165,4.2,3.5
+8,praxedo,"Praxedo","Auf Anfrage",EUR,6.8,8,"2–6 Wochen",13,20,32,41,Limited,No,,,5,3.9
